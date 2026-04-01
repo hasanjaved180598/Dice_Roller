@@ -1,16 +1,22 @@
-# Dice_Roller
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🎲 Dice Roller
+ 
+A simple and fun dice roller app built with Flutter. Tap to roll and let fate decide!
+ 
+---
+ 
+## ✨ Features
+ 
+- 🎲 Tap to roll the dice instantly
+- 📱 Clean, minimal UI built with Flutter
+- ⚡ Fast and lightweight — no bloat, just rolls
+ 
+---
+ 
+## 🏗️ Built With
+ 
+- [Flutter](https://flutter.dev/) — cross-platform UI framework
+- [Dart](https://dart.dev/) — programming language
+ 
+---
+ 
+> _Roll the dice and trust the odds._ 🎯
