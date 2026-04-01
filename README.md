@@ -3,6 +3,12 @@
 A simple and fun dice roller app built with Flutter. Tap to roll and let fate decide!
  
 ---
+
+## 🎬 Demo
+ 
+[https://github.com/your-username/dice_roller/assets/your-user-id/your-video-id.mp4](https://github.com/user-attachments/assets/0b75a650-a304-4b29-b00d-8f03a4171e38)
+ 
+---
  
 ## ✨ Features
  
