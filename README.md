@@ -17,6 +17,26 @@ A simple and fun dice roller app built with Flutter. Tap to roll and let fate de
 - ⚡ Fast and lightweight — no bloat, just rolls
  
 ---
+
+## 🏗️ Project Structure
+ 
+```
+lib/
+├── main.dart                  # App entry point
+├── dice_roller.dart           # Core dice rolling logic
+├── gradient_container.dart    # Gradient background widget
+├── styled_text.dart           # Custom text styling widget
+└── assets/
+    └── images/
+        ├── dice-1.png         # Dice face 1
+        ├── dice-2.png         # Dice face 2
+        ├── dice-3.png         # Dice face 3
+        ├── dice-4.png         # Dice face 4
+        ├── dice-5.png         # Dice face 5
+        └── dice-6.png         # Dice face 6
+```
+ 
+---
  
 ## 🏗️ Built With
  
